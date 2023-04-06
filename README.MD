@@ -1,0 +1,16 @@
+# Fundamental Algorithms for solving problems!
+- Graph-traverse DFS
+- Graph traverse BFS
+- Dijkstra algorithm
+- Floyd algorithm
+- Kruskal algorithm
+- Prim algorithm
+- Sort
+- bubble sort
+- insertion sort
+- selection sort
+- quick sort
+- merge sort
+- heap sort
+- redic sort
+- shell sort
